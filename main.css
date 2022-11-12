@@ -1,0 +1,117 @@
+.navigasi {
+  background-color: black;
+  font-size: 30px;
+  overflow: hidden;
+  list-style: none;
+  position: fixed;
+  width: 100%;
+  z-index: 100%;
+  top: 0%;
+}
+.navigasi li {
+  color: white;
+  float: left;
+  margin: 10px;
+}
+.img {
+  width: 250px;
+  left: 200px;
+  border-radius: 50%;
+}
+#nama {
+  font-size: 28px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.status {
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+}
+#tentang {
+  font-style: calc();
+  font-size: 20px;
+  background-color: darkgreen;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+p li {
+  font-style: italic;
+  font-size: large;
+}
+#galeri {
+  font-style: calc();
+  font-size: 20px;
+  background-color: darkgreen;
+  padding: 20px;
+}
+.foto {
+  float: left;
+}
+
+.g2 {
+  width: 150px;
+  height: 200px;
+  border-radius: 20%;
+}
+
+.g2:hover {
+  transform: scale(1.5);
+  height: 220px;
+  border: 5px solid black;
+}
+
+.li {
+  font-family: 'Courier New', Courier, monospace;
+  margin: 20px;
+}
+.metsos {
+  width: 40px;
+  margin: 10px;
+}
+body {
+  background-color: grey;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+#tabel1 {
+  width: 400px;
+  background-color: chartreuse;
+}
+#tabe2 {
+  width: 600px;
+  height: 400px;
+}
+#formulir {
+  font-size: 50px;
+  background-color: darkgreen;
+}
+.nisn {
+  font-size: 28px;
+  padding: 0px;
+  margin: 0px;
+}
+#userinput {
+  font-size: 28px;
+  margin: 0px;
+  padding-top: 15px;
+}
+.jeniskelamin {
+  font-size: 28px;
+  margin: 0px;
+  padding-top: 20px;
+}
+.agama {
+  font-size: 28px;
+  margin: 0px;
+  padding-top: 20px;
+}
+.kelas {
+  font-size: 28px;
+  margin: 0px;
+  padding-top: 15px;
+}
